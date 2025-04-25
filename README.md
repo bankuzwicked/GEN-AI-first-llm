@@ -37,7 +37,7 @@ The entire system is wrapped in a Streamlit application, making it accessible to
 
 ## 📚 Dataset
 
-The model was trained on a subset of the [Wikipedia Movie Plots Dataset](https://www.kaggle.com/datasets) from Kaggle, consisting of 1,000 plot summaries. This focused training approach allowed for efficient fine-tuning while maintaining narrative coherence.
+The model was trained on a subset of the [Wikipedia Movie Plots Dataset](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots) from Kaggle, consisting of 1,000 plot summaries. This focused training approach allowed for efficient fine-tuning while maintaining narrative coherence.
 
 ## 💻 Usage
 
