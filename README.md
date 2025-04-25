@@ -44,10 +44,6 @@ The model was trained on a subset of the [Wikipedia Movie Plots Dataset](https:/
 ## 💻 Usage
 
 1. Enter a prompt in the text field (e.g., "A thriller about a detective who")
-2. Adjust generation parameters if desired:
-   - **Temperature**: Higher values (e.g., 0.9) create more diverse outputs
-   - **Max Length**: The maximum number of tokens to generate
-   - **Top-k/Top-p**: Sampling parameters for text generation
 3. Click "Generate Plot" and watch as the AI creates a unique movie storyline!
 
 ## 📊 Training Process
