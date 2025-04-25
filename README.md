@@ -3,6 +3,8 @@
 An AI-powered movie plot generator that creates unique storylines from your prompts using fine-tuned distilgpt2.
 
 
+![Image](https://github.com/user-attachments/assets/50f81bed-0831-4398-8fa9-6ae3894bc152)
+
 
 ![image](https://github.com/user-attachments/assets/41f41282-3f65-41f6-a90d-48a1df1d1a34)
 
